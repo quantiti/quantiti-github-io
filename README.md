@@ -1,4 +1,4 @@
-## Welcome to Quantiti's Github Page
+## Quantiti's Github Page
 
 You can use the [editor on GitHub](https://github.com/quantiti/quantiti-github-io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
